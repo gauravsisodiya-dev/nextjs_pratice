@@ -5,7 +5,7 @@ export default function AboutStudent() {
     return (
         <>
             <h1>About Student Page</h1>
-            <Link href={'/about'}>Go to About Page</Link>
+            <Link href={'/studentlist'}>Go to student Page</Link>
         </>
     )
 }

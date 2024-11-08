@@ -19,7 +19,7 @@ export default function About() {
             <button onClick={()=>navigate('/login')}>Go to login Page</button>
             <br/>
             <br/>
-            <Link href={'about/aboutstudent'}>Go to About Student Page</Link>
+            <Link href={'/about/aboutstudent'}>Go to About Student Page</Link>
         </>
     )
 }
